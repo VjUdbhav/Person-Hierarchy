@@ -7,9 +7,9 @@ import Teacher from "./models/Teacher";
 
 function App() {
   
-  const person = new Person("Alex Johnson", 30);
-  const student = new Student("Emma Watson", 20, "Computer Science");
-  const teacher = new Teacher("Dr. James Wilson", 45, "Mathematics");
+  const person = new Person("Erwin Schrodinger", 80);
+  const student = new Student("Udbhav Vijay", 19, "AI-ML");
+  const teacher = new Teacher("prof. Parasdeep Singh", 30, "Machine Learning");
 
   return (
     <div style={{ padding: "40px", fontFamily: "Arial" }}>
