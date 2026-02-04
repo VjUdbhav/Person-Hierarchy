@@ -2,8 +2,8 @@
   "name": "person-hierarchy",
   "version": "0.1.0",
   "private": true,
-  
-  "homepage": "https://VjUdbhav.github.io/Person-Hierarchy",
+
+  "homepage": "https://vjudbhav.github.io/Person-Hierarchy",
 
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
